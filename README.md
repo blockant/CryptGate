@@ -1,12 +1,6 @@
 # CryptGate
 CryptGate: Crypto Payment Gateway for web2/web3 applications with account abstraction and zk-based identities
 
-# CryptGate
-CryptGate: Crypto Payment Gateway for web2/web3 applications with account abstraction and zk-based identities
-
-# CryptGate
-Unified Payment Interface for Crypto
-
 # Project Description
 Making user onboarding seamless through account abstraction: A unified crypto payment interface to make crypto payments seamless and easier.
 Tool (DEV) » onboarding
