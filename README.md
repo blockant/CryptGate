@@ -14,6 +14,9 @@ Also, it can be integration with many web3 platforms like gaming, social media w
 2. Social Login - Register through Gmail/Google Accounts / Social accounts Onboarding through OAuth2
 3. Passwordless authentication and authorisation - Link-based authentication through Gmail or SMS - Will use AWS SES for emails or mobile services for sending links through SMSs.
 
+# Axelar General Message passing transaction
+https://testnet.axelarscan.io/gmp/0x41f01773f8e8ada19df68a2500b9ef269a3b4f2cc3c531aabbff9ca54fb2b466:26
+
 # Deployed Contracts 
 
 ## Polygon Mumbai
